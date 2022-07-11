@@ -2,6 +2,7 @@
 ## Info 介绍
 A Windows GUI tool to check if the image sequence has any frame missing or broken.
 一个Windows下运行的GUI python工具，检查漏帧或者坏帧
+![ScreenShot](https://user-images.githubusercontent.com/15974476/178226416-cf153786-96c1-425d-b66e-2f293c13ee0a.png)
 
 ## Compile 编译
 ```bash
@@ -19,3 +20,4 @@ These features need your help:
 ## Author 作者
 - Original Author: mc-cyx
 - Project Owner: Milco
+
