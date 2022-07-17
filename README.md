@@ -4,6 +4,11 @@ A Windows GUI tool to check if the image sequence has any frame missing or broke
 一个Windows下运行的GUI python工具，检查漏帧或者坏帧
 ![ScreenShot](https://user-images.githubusercontent.com/15974476/178226416-cf153786-96c1-425d-b66e-2f293c13ee0a.png)
 
+## Enviroment 环境
+```bash
+pip install PyQt5 PyQt5-tools pyinstaller
+```
+
 ## Compile 编译
 ```bash
 pyinstaller -F main.py --noconsole --noconfirm

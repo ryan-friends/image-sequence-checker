@@ -43,7 +43,7 @@ class Util:
         # 排序
         files.sort()
         # 获取文件名的数字序列
-        serials = [self.analysis_file_serial(file) for file in files]
+        serials = [self.analysis_file_serial(file) for file in files if self.analysis_file_serial(file)]
         min_serial = min(serials)
         max_serial = max(serials)
         # 检查是否连续
