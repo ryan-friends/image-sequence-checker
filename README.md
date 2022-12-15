@@ -1,4 +1,5 @@
 # image-sequence-checker
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 ## Info 介绍
 A Windows GUI tool to check if the image sequence has any frame missing or broken.
 一个Windows下运行的GUI python工具，检查漏帧或者坏帧
